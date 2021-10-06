@@ -1,0 +1,19 @@
+h3{
+	color: red;
+	background-color: yellow;
+}
+.box{
+	width: 30%;
+	height: 200px;
+}
+.green{
+	width: 30%;
+	height: 200px;
+	background-color: green;
+}
+.red{
+	width: 30%;
+	height: 200px;
+	background-color: red;
+	margin-top: 30px;
+}
